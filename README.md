@@ -1,6 +1,5 @@
 <h1>Hi, Aurora Defender! 
-<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">SOC ANALYST</a></h1>
-ABDULAZEEZ MOHAMMED
+<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Dedicated and results-driven Security Validation Analyst with a proven track record in enhancing cybersecurity measures and mitigating threats across diverse environments. Adept at conducting meticulous Security Control Validation, I have achieved a substantial 20% improvement in threat detection efficiency. My expertise extends to managing and prioritizing security incidents, leading to a commendable 15% reduction in resolution time. In pursuit of excellence, I bring a comprehensive skill set, technical expertise, and a track record of measurable achievements to a dynamic Security Assessment and Validation role.

@@ -16,6 +16,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
+| WAZUH SOC AUTOMATION-REPORT    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC</a>|
+| SPLUNK PROJECT-REPORT    | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
+| EDR Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
+
+
 
 ## Tools
 

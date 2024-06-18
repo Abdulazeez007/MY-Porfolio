@@ -15,7 +15,7 @@ My journey in cybersecurity has deepened my passion for threat detection and inc
 | WAZUH SOC AUTOMATION-With SHUFFLE    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC Automation</a>|
 | SPLUNK PROJECT-SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
 | EDR & Anti-Virus Assessment Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
-| Microsoft Sentinel Incident Response with NIST 800-53 SC-7      | <a href="https://google.com"> Honey Pot Detection Project</a>|
+| Microsoft Sentinel Incident Response with NIST 800-53 SC-7      | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Honey Pot Detection Project</a>|
 
 
 

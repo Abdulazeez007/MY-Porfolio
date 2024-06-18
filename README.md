@@ -12,13 +12,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| WAZUH SOC AUTOMATION-REPORT    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC</a>|
-| SPLUNK PROJECT-REPORT    | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
-| EDR Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
+| WAZUH SOC AUTOMATION-With SHUFFLE    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC Automation</a>|
+| SPLUNK PROJECT-SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
+| EDR & Anti-Virus Assessment Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
+| Microsoft Sentinel Incident Response with NIST 800-53 SC-7      | <a href="https://google.com">Detection Lab</a>|
 
 
 

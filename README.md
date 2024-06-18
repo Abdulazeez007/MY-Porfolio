@@ -39,6 +39,7 @@ My journey in cybersecurity has deepened my passion for threat detection and inc
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4A4A55?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications

@@ -6,7 +6,7 @@ Dedicated and results-driven Security Validation Analyst with a proven track rec
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has deepened my passion for threat detection and incident response, driving my ambition to further develop my skills in this area. I am now eager to advance into a role as a professional Security Operations Center (SOC) Engineer. In this position, I aim to leverage my expertise and knowledge to contribute effectively to security operations and enhance organizational resilience against threats.
 
 ## Skills
 
@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | WAZUH SOC AUTOMATION-With SHUFFLE    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC Automation</a>|
 | SPLUNK PROJECT-SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
 | EDR & Anti-Virus Assessment Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
-| Microsoft Sentinel Incident Response with NIST 800-53 SC-7      | <a href="https://google.com">Detection Lab</a>|
+| Microsoft Sentinel Incident Response with NIST 800-53 SC-7      | <a href="https://google.com"> Honey Pot Detection Project</a>|
 
 
 

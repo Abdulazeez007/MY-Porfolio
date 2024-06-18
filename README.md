@@ -2,7 +2,7 @@
 <br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated and results-driven Security Validation Analyst with a proven track record in enhancing cybersecurity measures and mitigating threats across diverse environments. Adept at conducting meticulous Security Control Validation, I have achieved a substantial 20% improvement in threat detection efficiency. My expertise extends to managing and prioritizing security incidents, leading to a commendable 15% reduction in resolution time. In pursuit of excellence, I bring a comprehensive skill set, technical expertise, and a track record of measurable achievements to a dynamic Security Assessment and Validation role.
+Dedicated and results-driven SOC Analyst with a proven track record in enhancing cybersecurity measures and mitigating threats across diverse environments during my internship at Virtually Testing Foundation California USA. Adept at conducting meticulous Security Control Validation, where I also achieved a substantial 20% improvement in threat detection efficiency. My expertise extends to managing and prioritizing security incidents detection and response with automation using customized playbooks, leading to a commendable 15% reduction in resolution time. In pursuit of excellence, I bring a comprehensive skill set, technical expertise, and a track record of measurable achievements to a dynamic Security Assessment, Log Analytics, Monitoring & Triaging, Threat detection, Response and Validation role.
 
 ## Objective
 
@@ -21,20 +21,20 @@ My journey in cybersecurity has deepened my passion for threat detection and inc
 
 ## Tools
 
-### Network
+### Network Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />

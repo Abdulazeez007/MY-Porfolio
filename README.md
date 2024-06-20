@@ -8,16 +8,27 @@ Dedicated and results-driven SOC Analyst with a proven track record in enhancing
 
 My journey in cybersecurity has deepened my passion for threat detection and incident response, driving my ambition to further develop my skills in this area. I am now eager to advance into a role as a professional Security Operations Center (SOC) Engineer. In this position, I aim to leverage my expertise and knowledge to contribute effectively to security operations and enhance organizational resilience against threats.
 
-## Skills
+## Hands-On Projects
 
-| Skill                                         | Associated Project         |
+| Professional Skills                            | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| WAZUH SOC AUTOMATION-With SHUFFLE    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH-SOC Automation</a>|
-| SPLUNK PROJECT-SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK-PROJECT</a>|
-| EDR & Anti-Virus Assessment Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR Testing</a>|
-| Microsoft Sentinel IR with NIST 800-53 SC-7 Implementation      | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Honey Pot Detection Project</a>|
+| Security Operations Automation with Shuffle SOAR    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH SOC AUTOMATION-With SHUFFLE</a>|
+| SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK Threat Detection Orchestration</a>|
+| EDR & Anti-Virus Security Control Validation Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR & AntiVirus Testing Using EICAR</a>|
+|  Incident Response Planning and Execution  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Microsoft Sentinel IR with NIST 800-53 SC-7 Implementation </a>|
 
+## Soft Skills
 
+- **Communication Skills**: Effectively convey technical information to diverse audiences.
+- **Attention to Detail**: Meticulously monitor and analyze security incidents.
+- **Problem-Solving**: Identify, analyze, and resolve complex security issues.
+- **Critical Thinking**: Assess situations rationally for informed decision-making.
+- **Team Collaboration**: Work effectively within cross-functional teams.
+- **Adaptability**: Flexibly adapt to new threats and technologies.
+- **Time Management**: Prioritize tasks and manage time efficiently.
+- **Stress Management**: Maintain composure under pressure.
+- **Ethical Judgment**: Uphold ethical standards and confidentiality.
+- **Decision-Making**: Make informed and timely decisions in critical situations.
 
 ## Tools
 

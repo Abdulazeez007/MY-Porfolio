@@ -2,11 +2,11 @@
 <br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated and results-driven SOC Analyst with a proven track record in enhancing cybersecurity measures and mitigating threats across diverse environments during my internship at Virtually Testing Foundation California USA. Adept at conducting meticulous Security Control Validation, where I also achieved a substantial 20% improvement in threat detection efficiency. My expertise extends to managing and prioritizing security incidents detection and response with automation using customized playbooks, leading to a commendable 15% reduction in resolution time. In pursuit of excellence, I bring a comprehensive skill set, technical expertise, and a track record of measurable achievements to a dynamic Security Assessment, Log Analytics, Monitoring & Triaging, Threat detection, Response and Validation role.
+Dedicated and results-driven SOC Analyst with hands-on experience in improving cybersecurity defenses and threat mitigation, honed during my internship at Log(N)Pacific,  Virtually Testing Foundation, California. I successfully increased threat detection efficiency by 20% through diligent Security Control Validation and optimized incident response with automation, reducing resolution times by 15%. My expertise includes Security Assessment, Log Analytics, Monitoring & Triaging, and crafting tailored playbooks for streamlined threat detection and response. I am committed to delivering measurable results in a fast-paced security operations environment..
 
 ## Objective
 
-My journey in cybersecurity has deepened my passion for threat detection and incident response, driving my ambition to further develop my skills in this area. I am now eager to advance into a role as a professional Security Operations Center (SOC) Engineer. In this position, I aim to leverage my expertise and knowledge to contribute effectively to security operations and enhance organizational resilience against threats.
+As a proactive SOC Analyst with a passion for cybersecurity, I aim to leverage my experience in threat detection, incident response, and security automation to contribute to innovative and secure solutions. My GitHub showcases projects focused on enhancing security operations, automating threat response, and improving system resilience. I'm committed to continuous learning and sharing knowledge with the cybersecurity community.
 
 ## Hands-On Projects
 

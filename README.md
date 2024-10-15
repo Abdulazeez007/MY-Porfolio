@@ -2,7 +2,7 @@
 <br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated and results-driven SOC Analyst with hands-on experience in improving cybersecurity defenses and threat mitigation, honed during my internship at Log(N)Pacific,  Virtually Testing Foundation, California. I successfully increased threat detection efficiency by 20% through diligent Security Control Validation and optimized incident response with automation, reducing resolution times by 15%. My expertise includes Security Assessment, Log Analytics, Monitoring & Triaging, and crafting tailored playbooks for streamlined threat detection and response. I am committed to delivering measurable results in a fast-paced security operations environment..
+A dedicated and results-driven SOC Analyst with extensive hands-on experience in enhancing cybersecurity defenses and mitigating threats, refined through my internship at Log(N) Pacific and the Virtually Testing Foundation, California. I achieved a 20% improvement in threat detection efficiency through meticulous Security Control Validation and optimized incident response processes using automation, resulting in a 15% reduction in resolution times. My core competencies include Security Assessments, Log Analysis, Monitoring and Triaging, as well as developing customized playbooks to ensure efficient threat detection and response. I am committed to delivering measurable results in a fast-paced security operations environment.
 
 ## Objective
 

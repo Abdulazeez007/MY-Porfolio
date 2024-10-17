@@ -20,16 +20,16 @@ As a proactive SOC Analyst with a passion for cybersecurity, I aim to leverage m
 
 ## Soft Skills
 
-- **Communication Skills**: Effectively convey technical information to diverse audiences.
-- **Attention to Detail**: Meticulously monitor and analyze security incidents.
-- **Problem-Solving**: Identify, analyze, and resolve complex security issues.
-- **Critical Thinking**: Assess situations rationally for informed decision-making.
-- **Team Collaboration**: Work effectively within cross-functional teams.
-- **Adaptability**: Flexibly adapt to new threats and technologies.
-- **Time Management**: Prioritize tasks and manage time efficiently.
-- **Stress Management**: Maintain composure under pressure.
-- **Ethical Judgment**: Uphold ethical standards and confidentiality.
-- **Decision-Making**: Make informed and timely decisions in critical situations.
+- 💬 **Communication Skills**: Effectively convey technical information to diverse audiences.
+- 🔍 **Attention to Detail**: Meticulously monitor and analyze security incidents.
+- 🧠 **Problem-Solving**: Identify, analyze, and resolve complex security issues.
+- 🧠 **Critical Thinking**: Assess situations rationally for informed decision-making.
+- 🤝 **Team Collaboration**: Work effectively within cross-functional teams.
+- 🔄 **Adaptability**: Flexibly adapt to new threats and technologies.
+- ⏰ **Time Management**: Prioritize tasks and manage time efficiently.
+- 😌 **Stress Management**: Maintain composure under pressure.
+- 🔒 **Ethical Judgment**: Uphold ethical standards and confidentiality.
+- ⚖️ **Decision-Making**: Make informed and timely decisions in critical situations.
 
 ## Tools
 
@@ -64,7 +64,13 @@ As a proactive SOC Analyst with a passion for cybersecurity, I aim to leverage m
 </div>
 
 ## Projects
-- ENDPOINT SECURITY ASSESSMENT
-- SOC AUTOMATION PROJECT-WAZUH
-- SIEM IMPLEMENTATION & LOG ANALYSIS-SPLUNK
-- MICROSOFT SENTINEL ORCHESTRATION & INCIDENT RESPONSE
+
+- 🛡️ **Endpoint Security Assessment**: Comprehensive evaluation of endpoint security measures for enhanced threat detection and mitigation.
+
+- 🤖 **SOC Automation Project - Wazuh**: Deployment of Wazuh for automated incident detection, response, and integration with SOAR tools.
+
+- 📊 **SIEM Implementation & Log Analysis - Splunk**: Setup of Splunk SIEM for advanced log analysis and real-time threat monitoring.
+
+- 🔗 **Microsoft Sentinel Orchestration & Incident Response**: Streamlined incident detection and response with KQL-based automation and playbooks in Azure Sentinel.
+
+- 🔍 **Advanced Security Monitoring and Incident Detection Using ELK Stack for SOC Automation**: Implementation of ELK Stack for comprehensive security monitoring, log analysis, and automated response in SOC environments.

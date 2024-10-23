@@ -6,7 +6,7 @@ A dedicated and results-driven SOC Analyst with extensive hands-on experience in
 
 ## Objective
 
-As a proactive SOC Analyst with a passion for cybersecurity, I aim to leverage my experience in threat detection, incident response, and security automation to contribute to innovative and secure solutions. My GitHub showcases projects focused on enhancing security operations, automating threat response, and improving system resilience. I'm committed to continuous learning and sharing knowledge with the cybersecurity community.
+As a proactive SOC Analyst and Azure Security Engineer with a passion for cybersecurity, I aim to leverage my experience in threat detection, incident response, and security automation to contribute to innovative and secure solutions. My GitHub showcases projects focused on enhancing security operations, automating threat response, and improving system resilience. I'm committed to continuous learning and sharing knowledge with the cybersecurity community.
 
 ## Hands-On Projects
 

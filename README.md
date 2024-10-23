@@ -15,7 +15,7 @@ As a proactive SOC Analyst with a passion for cybersecurity, I aim to leverage m
 | Security Operations Automation with Shuffle SOAR    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH SOC AUTOMATION-With SHUFFLE</a>|
 | SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK Threat Detection Orchestration</a>|
 | EDR & Anti-Virus Security Control Validation Testing    | <a href="https://github.com/Virus192/EDR-Testing">EDR & AntiVirus Testing Using EICAR</a>|
-|  Incident Response Planning and Execution  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Microsoft Sentinel IR with NIST 800-53 SC-7 Implementation </a>|
+|  Azure Incident Response Planning and Execution  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Microsoft Sentinel IR with NIST 800-53 SC-7 Implementation </a>|
 |  Mythic C2 Detection, Response and Investigation  | <a href="https://github.com/Virus192/SOC-AUTOMATION-ELK-STACK"> Advanced Security Monitoring and Incident Detection Using ELK Stack for SOC Automation </a>|
 
 ## Soft Skills

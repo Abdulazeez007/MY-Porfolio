@@ -12,7 +12,7 @@ As a proactive SOC Analyst and Azure Security Engineer with a passion for cybers
 
 | Professional Skills                            | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Azure Incident Response Planning and Execution  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Microsoft Sentinel IR with NIST 800-53 SC-7 Implementation </a>|
+|  Azure Incident Response Planning and Execution  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Microsoft Sentinel Incident Response with NIST 800-53 SC-7 Implementation </a>|
 |  Azure SOAR Automation and Incident Response  | <a href="https://github.com/Virus192/Microsoft-Sentinel-IR"> Multi-staged Attack Simulation Using the Mythic Command and Control Agent (APOLLO) </a>|
 | Security Operations Automation with Shuffle SOAR    | <a href="https://github.com/Virus192/WAZUH-SOC">WAZUH SOC AUTOMATION-With SHUFFLE</a>|
 | SIEM Implementation and Log Analysis   | <a href="https://github.com/Virus192/SPLUNK-PROJECT">SPLUNK Threat Detection Orchestration</a>|

@@ -6,7 +6,7 @@ A dedicated and results-driven SOC Analyst/Detection Engineer with extensive han
 
 ## Objective
 
-As a proactive SOC Analyst and Azure Security Engineer with a passion for Digital Assets Security, I aim to leverage my experience in threat detection, incident response, and security automation to contribute to innovative and secure solutions. My GitHub showcase projects focused on enhancing security operations, automating threat response, and improving system resilience. I'm committed to continuous learning and sharing knowledge with the cybersecurity community.
+As a proactive SOC Analyst/Detection Engineer with a passion for Digital Assets Security, I aim to leverage my experience in threat detection, incident response, and security automation to contribute to innovative and secure solutions. My GitHub showcase projects focused on enhancing security operations, automating threat response, and improving system resilience. I'm committed to continuous learning and sharing knowledge with the cybersecurity community.
 
 ## Hands-On Projects
 
@@ -58,7 +58,7 @@ As a proactive SOC Analyst and Azure Security Engineer with a passion for Digita
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-AZ--500-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--500-007FFF?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-FF6600?&style=for-the-badge&logo=CompTIA&logoColor=white" />

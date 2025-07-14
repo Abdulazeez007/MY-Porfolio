@@ -2,7 +2,8 @@
 <br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST || Detection ENGINEER</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A dedicated and results-driven SOC Analyst/Detection Engineer with extensive hands-on experience in enhancing cybersecurity defenses and mitigating threats, refined through my internship at the Virtually Testing Foundation, California, and AttackIQ Frameworks. I achieved a 20% improvement in threat detection efficiency through meticulous Security Control Validation and optimized incident response processes, resulting in a 15% reduction in resolution times. My core competencies include Security Assessments, Log Analysis, Monitoring and Triaging, as well as developing customized playbooks to ensure efficient threat detection and response. I am committed to delivering measurable results in a fast-paced security operations environment.
+Cybersecurity Operations Analyst | Threat Hunter | Incident Responder
+Proactive and results-driven SOC Analyst with hands-on expertise in threat detection, incident response, and security automation across hybrid cloud and enterprise environments. Proven track record leveraging Microsoft Sentinel, Splunk, and Defender to detect advanced threats (QakBot, SocGholish, Emotet), automate incident triage, and reduce response time by up to 40%. Adept at applying MITRE ATT&CK and the Cyber Kill Chain frameworks to close detection gaps and strengthen security posture. Delivered measurable impact, including a 35% boost in threat visibility and a 25% increase in SOC efficiency through tailored playbooks, logic apps, and control validation (NIST 800-53/800-61). Passionate about defending organizations through precision threat hunting, structured response, and scalable security operations.
 
 ## Objective
 

@@ -1,5 +1,5 @@
 <h1> 📢 Hi, Welcome to my Portfolio Page! 
-<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST || AZURE SECURITY ENGINEER</a></h1>
+<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST || Detection ENGINEER</a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A dedicated and results-driven SOC Analyst and Azure Security Engineer with extensive hands-on experience in enhancing cybersecurity defenses and mitigating threats, refined through my internship at Log(N) Pacific and the Virtually Testing Foundation, California. I achieved a 20% improvement in threat detection efficiency through meticulous Security Control Validation and optimized incident response processes, resulting in a 15% reduction in resolution times. My core competencies include Security Assessments, Log Analysis, Monitoring and Triaging, as well as developing customized playbooks to ensure efficient threat detection and response. I am committed to delivering measurable results in a fast-paced security operations environment.

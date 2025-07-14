@@ -58,8 +58,10 @@ As a proactive SOC Analyst and Azure Security Engineer with a passion for Digita
 ## Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-AZ--500-007FFF?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF6600?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-99CC33?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>

@@ -1,5 +1,5 @@
 <h1> 📢 Hi, Welcome to my Portfolio Page! 
-<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, SOC ANALYST || Detection ENGINEER</a></h1>
+<br/><a href="https://www.linkedin.com/in/abdulazeez-m-53b7511b5/">ABDULAZEEZ MOHAMMED, Cybersecurity Analyst || IT Systems Engineer </a></h1>
 <br/><a href="https://www.linkedin.com/in/auroradefender/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Security Operations Analyst | Detection Engineer | Incident Responder
